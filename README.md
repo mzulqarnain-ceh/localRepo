@@ -5,3 +5,9 @@
 <br>git branch (to check branch)
 <br>git branch -M "name(main)" (to rename branch)
 <br>git push origin main   or  git push -u origin main(for shortcut so in future we just type git add)
+<br>Branch Commands
+<br> git branch (to check branch)
+<br> git branch -M "name(main)" (to rename branch)
+<br> git checkout <- branch name -> (to navigate)
+<br> git checkout -b <- new branch name -> (to create new branch)
+<br> git branch -d <- branch name -> (to delete branch)
